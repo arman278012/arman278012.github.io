@@ -949,6 +949,7 @@ p:hover {
   .home-img {
     width: 70vw;
     margin-top: 4rem;
+    height: 290px;
   }
 
   .about {
