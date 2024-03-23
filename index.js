@@ -24,7 +24,7 @@ let resume2 = document.getElementById("resume-button-2").addEventListener("click
 
 function NewTab() {
     window.open(
-        "https://drive.google.com/drive/folders/1MRiz4p0kFT33dlLuDtZKfiR3xm_aZxE6?usp=sharing"
+        "https://drive.google.com/file/d/199uid5mD8fWiVqypgLAryv1J7GLPnglr/view?usp=drive_link"
     );
 }
 
